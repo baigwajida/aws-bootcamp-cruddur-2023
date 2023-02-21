@@ -3,7 +3,7 @@
         "Amount": "100",
         "Unit": "USD"
     },
-    "BudgetName": "Example Tag Budget",
+    "BudgetName": "Cloud Project Bootcamp Budget",
     "BudgetType": "COST",
     "CostFilters": {
         "TagKeyValue": [
