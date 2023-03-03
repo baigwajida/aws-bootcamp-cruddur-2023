@@ -14,7 +14,7 @@
 
 ![docker run backend output](https://user-images.githubusercontent.com/37880067/222718536-eadb7ff9-0ba0-49ee-91f4-a20958b23c4a.jpg)
 
-### Install npm inside /frontend-react-js
+### Install npm inside [aws-bootcamp-cruddur-2023/frontend-react-js](https://github.com/omenking/aws-bootcamp-cruddur-2023/tree/week-1/frontend-react-js)
 
 ![npm i frontend](https://user-images.githubusercontent.com/37880067/222719620-bd4e944f-7d2b-4f06-bc4d-a61e75c9a333.jpg)
 
@@ -64,7 +64,7 @@
 
 ### Making all ports public (except last one, which is used  by Gitpod)
 
-![make all ports public](https://user-images.githubusercontent.com/37880067/222721047-f9d6da54-bee0-4ba7-a430-8a91ce10d6be.jpg)
+![make all ports public](https://user-images.githubusercontent.com/37880067/222723996-45981c7e-7dc5-4177-9053-b1edec1f2d77.jpg)
 
 ### Crudder App signed in
 
