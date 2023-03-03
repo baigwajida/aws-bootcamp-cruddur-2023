@@ -1,5 +1,7 @@
 # Week 1 — App Containerization
 
+In Week 1, our primary focus was on containerizing the Crudder application using Docker. Additionally, we added notifications to both the Frontend and Backend, established a new DynamoDB table, and implemented functionality to insert items into and list items from the table. Finally, we established a connection with Postgres to ensure seamless data flow between the two systems.
+
 ## Required Homework/Tasks to be done
 
 ### Build the Backend Container
@@ -62,6 +64,10 @@
 
 ![postgres connection success](https://user-images.githubusercontent.com/37880067/222720596-55af48f3-69d2-43de-a945-3f1a0566faa0.jpg)
 
+### Run docker compose up
+
+![docker compose up](https://user-images.githubusercontent.com/37880067/222726093-8d23c119-d153-418e-b2bd-876a6ab5317f.jpg)
+
 ### Making all ports public (except last one, which is used  by Gitpod)
 
 ![make all ports public](https://user-images.githubusercontent.com/37880067/222723996-45981c7e-7dc5-4177-9053-b1edec1f2d77.jpg)
@@ -70,3 +76,4 @@
 
 ![crudder app signed in](https://user-images.githubusercontent.com/37880067/222720633-9896c483-15ff-42a8-bf6e-5c802c91a514.jpg)
 
+Working on Homework Challenges, will update them soon. 
