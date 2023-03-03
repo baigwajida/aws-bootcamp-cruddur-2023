@@ -2,9 +2,15 @@
 
 ## Required Homework/Tasks to be done
 
+### MFA For Root Account
+
+Created MFA For Root AWS Account
+
+![Root account IAM](https://user-images.githubusercontent.com/37880067/220541643-a5690e4c-bd7b-4d59-9ea9-5a91d99d3d9f.jpg)
+
 ### Install and use AWS CLI in Gitpod
 
-Integrated in [.gitpod.yml]() so that it will be executes at start of Gitpod workspace.
+Integrated in [.gitpod.yml](https://github.com/baigwajida/aws-bootcamp-cruddur-2023/blob/main/.gitpod.yml) so that it will be executes at start of Gitpod workspace.
 
 **Create a Billing Alarm and SNS**
 **Created Billing Alarm and integrated it with SNS**
@@ -13,7 +19,7 @@ Integrated in [.gitpod.yml]() so that it will be executes at start of Gitpod wor
 
 ![DailyEstimatedCharges Alarm](https://user-images.githubusercontent.com/37880067/220405848-da601be2-7398-4622-be18-2c764a53fe58.jpg)
 
-Billing Alarm Code [aws/json/alarm-config.json]()
+Billing Alarm Code [aws/json/alarm-config.json](https://github.com/baigwajida/aws-bootcamp-cruddur-2023/blob/main/aws/json/alarm_config.json)
 
 ### Create a Budget
 
@@ -24,7 +30,7 @@ Billing Alarm Code [aws/json/alarm-config.json]()
 
 ![Budget 100 dollars](https://user-images.githubusercontent.com/37880067/220405531-c07ad3fd-68a9-4535-ae9c-36fb92095166.jpg)
 
-Cloud Project Bootcamp Budget Code [aws/json/budget.json]()
+Cloud Project Bootcamp Budget Code [aws/json/budget.json](https://github.com/baigwajida/aws-bootcamp-cruddur-2023/blob/main/aws/json/budget.json)
 
 
 ### Recreate Conceptual Diagram in Lucid Charts
@@ -46,10 +52,5 @@ Earlier created a Budget
 
 ![old Budget](https://user-images.githubusercontent.com/37880067/220406408-49063c80-4344-442f-b10f-73957c2ba6cb.jpg)
 
-### MFA For Root Account
-
-Created MFA For Root AWS Account
-
-![Root account IAM](https://user-images.githubusercontent.com/37880067/220541643-a5690e4c-bd7b-4d59-9ea9-5a91d99d3d9f.jpg)
 
 
