@@ -1,6 +1,6 @@
 # Week 1 — App Containerization
 
-In Week 1, our primary focus was on containerizing the Crudder application using Docker. Additionally, we added notifications to both the Frontend and Backend, established a new DynamoDB table, and implemented functionality to insert items into and list items from the table. Finally, we established a connection with Postgres to ensure seamless data flow between the two systems.
+In Week 1, our primary focus was on containerizing the Crudder application using Docker. We're using Python Flask for the Backend and React-JS for the Frontend. Additionally, we added notifications to both the Frontend and Backend, created a new DynamoDB table, and implemented functionality to insert items into and list items from the table. Finally, we established a connection with Postgres to ensure seamless data flow between the two systems.
 
 ## Required Homework/Tasks to be done
 
